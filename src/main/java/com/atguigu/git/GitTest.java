@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hello git2！");
         System.out.println("hello git4！");
         System.out.println("push git4！");
+         System.out.println("pull git5,github！");
+        
     }
 }
